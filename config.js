@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918373017400']
-global.OwnerNumber = ['918373017400']
-global.ownertag = ['918373017400']
-global.BotName = "𝑀𝒶𝓇𝒾𝓃-ᴋɪᴛᴀɢᴀᴡᴀ"
-global.packname = "𝑀𝒶𝓇𝒾𝓃-ʙᴏᴛ"
-global.author = "By: ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
-global.OwnerName = "ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
+global.Owner = ['14242862656']
+global.OwnerNumber = ['14242862656']
+global.ownertag = ['14242862656']
+global.BotName = "ʜᴇɴᴛᴀɪ"
+global.packname = "ʜᴇɴᴛᴀɪ"
+global.author = "By: ᴍᴀɪᴋɪ"
+global.OwnerName = "ᴍᴀɪᴋɪ"
 global.BotSourceCode = "https://github.com/Chey-san/Marin-Kitagawa-MD-Bot"
 global.SupportGroupLink = "https://chat.whatsapp.com/G0dZXqJAL9b1boqnra7eb4"
 global.sessionName = "session"
@@ -56,7 +56,7 @@ global.mess = {
     jobdone: 'Job done...',
     useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* & ᥴꫝꫀꪗ-senpai ❣️ can use this command, Baka!',
+    botowner: 'Only my *Owner* ᴍᴀɪᴋɪ ❣️ can use this command, Baka!',
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
